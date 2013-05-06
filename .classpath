@@ -71,5 +71,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/Users/Gaston/eclipse/libraries/Locomotion/library/Locomotion.jar"/>
 	<classpathentry kind="lib" path="/Users/Gaston/eclipse/libraries/Locomotion/library/oscP5.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/1_loco"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
