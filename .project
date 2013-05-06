@@ -15,4 +15,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>proclipsing.core.ProcessingProjectNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>libraries</name>
+			<type>2</type>
+			<location>/Users/Gaston/eclipse/libraries</location>
+		</link>
+	</linkedResources>
 </projectDescription>
